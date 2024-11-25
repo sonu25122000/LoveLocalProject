@@ -1,0 +1,14 @@
+.dashboard-container {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 10%;
+  min-width: 254px;
+}
+
+/* .main-content {
+  flex: 1;
+  background: #f9f9f9;
+} */
